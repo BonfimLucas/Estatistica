@@ -11,6 +11,6 @@ Repositório criado no intuito de<br> armazenar os meus estudos<br> em relação
 
 ##
 
-<div aling = center>
+<div align = center>
 <img src="https://i.imgur.com/VOKQvBt.png" in-width="400px" max-width="350px" width="350px" align="center" alt="databasecenterbobfimzz">
 </div>
